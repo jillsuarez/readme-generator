@@ -29,7 +29,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "Contributers",
+        name: "contributers",
         message: "Please list your contributers with commas between.",
         when: ({wantContributers}) => {
             if (wantContributers) {

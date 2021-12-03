@@ -1,2 +1,5 @@
-# po
-  ![badge](https://img.shields.io/badge/license-MIT-blue)
+# Moop
+  # Licenses
+  ![badge](https://img.shields.io/badge/license-GPL-orange)
+  # Contibuters 
+  Mike, Jill
