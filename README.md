@@ -2,6 +2,10 @@
   [![badge](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
   n
+
+  GitHub Repository:
+
+  https://github.com/n/n
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -15,18 +19,18 @@
   undefined
   ## Licenses
    [MIT](https://opensource.org/licenses/MIT)
-  ## Contributing 
+  ## Contributions 
   No contributions being accepted at this time!
   ## Tests
   No test examples!
   ## Questions?
   Email: 
   
-  j
+  n
   
-  Repository:
+  GitHub Profile:
   
-  https://github.com/n/n
+  https://github.com/n
 
 
   
