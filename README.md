@@ -14,7 +14,8 @@
   ## Installation
   Node.js, and inquirer are required.
   ## Usage
-  start this project in your command line to be promted for information about your project. A readme.md file will be generated.
+  Watch this video to see how this project works!
+  [Click me! Project video run-through!](https://watch.screencastify.com/v/B7ZzqG6OdHwkJSkuDo8T)
   ## Credits
   No credits at this time!
   ## Licenses
