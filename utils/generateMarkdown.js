@@ -36,6 +36,14 @@ function renderLicenseSection(license) {
   }
 }
 
+function renderCredits (confirm, contributers) {
+  if (confirm == true) {
+    return `${contributers}`;
+  } else {
+    return "No credits at this time!"
+  };
+};
+
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.projectTitle}
@@ -56,7 +64,7 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
   ## Credits
-  ${data.contributers}
+  ${renderCredits(data.confirm, data.contributers)}
   ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
   ## Contributions 

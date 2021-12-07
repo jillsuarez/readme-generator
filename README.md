@@ -16,7 +16,7 @@
   ## Usage
   n
   ## Credits
-  undefined
+  No credits at this time!
   ## Licenses
    [MIT](https://opensource.org/licenses/MIT)
   ## Contributions 
